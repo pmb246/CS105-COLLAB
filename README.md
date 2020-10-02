@@ -1,5 +1,5 @@
 # CS105-COLLAB
-Group Collab Project
+## Group Collab Project
 
 1. Pete Becker - pmb246@nau.edu
 2. Lenin Valdivia - lav243@nau.edu
